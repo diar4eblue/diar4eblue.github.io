@@ -1,1 +1,124 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Entrevista a Enyerson Manuel Fernández Hernández</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload no-sidebar">
+		<div id="page-wrapper">
 
+			<!-- Header -->
+				<div id="header-wrapper">
+					<header id="header" class="container">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="index.html">DIAR4E</a></h1>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li><a href="index.html">Welcome</a></li>
+									<li class="current"><a href="no-sidebar.html">No Sidebar</a></li>
+								</ul>
+							</nav>
+
+					</header>
+				</div>
+
+
+
+
+<div class="container">
+        <header>
+            <h1>Entrevista Exclusiva con Enyerson Manuel Fernández Hernández</h1>
+            <p><strong>Por Alberto Rojas</strong></p>
+            <p><em>Fecha: [Fecha de la Entrevista]</em></p>
+        </header>
+        
+        <section class="intro">
+            <p>En el dinámico mundo de las redes sociales y la política, pocos nombres resuenan con tanta fuerza como el de Enyerson Manuel Fernández Hernández. A sus 17 años, este joven de La Guaira ha logrado posicionarse como una figura influyente, combinando su pasión por la política con su habilidad para conectar con las nuevas generaciones a través de plataformas digitales. Hoy, tenemos el privilegio de conocer más sobre su vida, su carrera y sus aspiraciones.</p>
+        </section>
+
+        <section class="interview">
+            <h2>Entrevista</h2>
+            <div class="qa">
+                <p><strong>Alberto Rojas:</strong> Enyerson, gracias por tomarte el tiempo para esta entrevista. Para empezar, cuéntanos un poco sobre tu infancia en La Guaira y cómo eso ha influido en tu vida actual.</p>
+                <p><strong>Enyerson Fernández:</strong> Gracias a ti, Alberto. Crecí en un entorno donde siempre se valoró la educación y el trabajo duro...</p>
+            </div>
+            <div class="qa">
+                <p><strong>Alberto Rojas:</strong> Has mencionado que estudias Ingeniería Marítima Mercante. ¿Qué te llevó a elegir esta carrera?</p>
+                <p><strong>Enyerson Fernández:</strong> Desde niño, me fascinó el mar y todo lo relacionado con él...</p>
+            </div>
+            <div class="qa">
+                <p><strong>Alberto Rojas:</strong> Tu experiencia política es notable. ¿Cómo ha sido esa experiencia y qué has aprendido de ella?</p>
+                <p><strong>Enyerson Fernández:</strong> Ha sido un viaje increíble. Trabajar en el Ministerio de Defensa me permitió entender la complejidad de la política internacional...</p>
+            </div>
+            <div class="qa">
+                <p><strong>Alberto Rojas:</strong> Eres políglota. ¿Cómo crees que esto te ha beneficiado en tu carrera?</p>
+                <p><strong>Enyerson Fernández:</strong> Hablar diferentes idiomas me ha abierto muchas puertas...</p>
+            </div>
+            <div class="qa">
+                <p><strong>Alberto Rojas:</strong> Hablemos de tus redes sociales. ¿Qué papel juegan en tu vida y en tu carrera política?</p>
+                <p><strong>Enyerson Fernández:</strong> Las redes sociales son una herramienta poderosa...</p>
+            </div>
+            <div class="qa">
+                <p><strong>Alberto Rojas:</strong> Para finalizar, ¿cuáles son tus metas a corto y largo plazo?</p>
+                <p><strong>Enyerson Fernández:</strong> A corto plazo, quiero terminar mis estudios y seguir creciendo en mi carrera política...</p>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+			<!-- Footer -->
+				<div id="footer-wrapper">
+					<footer id="footer" class="container">
+						<div class="row">
+							<div class="col-3 col-6-medium col-12-small">
+
+							</div>
+					<!-- Contact -->
+									<section class="widget contact">
+										<h3>Contact Us</h3>
+										<ul>
+											<li><a href="x.com/diar4eblue.git" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="facebook.com/diar4eblue.git" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+											<li><a href="instagram.com/diar4eblue.git" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										</ul>
+									</section>
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12">
+								<div id="copyright">
+									<ul class="menu">
+										<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="diar4eblue.github.io">DIAR4EBLUE</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</footer>
+				</div>
+
+			</div>
+
+		<!-- Scripts -->
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
